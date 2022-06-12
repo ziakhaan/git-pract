@@ -20,4 +20,9 @@ public class Multiplier extends BinaryExpression {
 		System.out.println("Chaange 2 added");
 	}
 
+	public void change3()
+	{
+		System.out.println("Chaange 2 added");
+	}
+
 }
