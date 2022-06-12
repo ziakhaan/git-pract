@@ -15,4 +15,9 @@ public class Multiplier extends BinaryExpression {
 		System.out.println("Chaange 1 added");
 	}
 
+	public void change2()
+	{
+		System.out.println("Chaange 2 added");
+	}
+
 }
